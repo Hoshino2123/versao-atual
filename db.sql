@@ -1,3 +1,5 @@
+CREATE DATABASE onevent
+  // Executa 
 USE onevent;
 CREATE TABLE users (
   id INT PRIMARY KEY AUTO_INCREMENT,
